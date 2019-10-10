@@ -1,4 +1,4 @@
-Median --> Βοηθάει στην αφαίρεση θορύβου
+Median --> Helps at reducing the noise
 - https://www.cs.auckland.ac.nz/courses/compsci373s1c/PatricesLectures/Image%20Filtering_2up.pdf
 - https://www.mathworks.com/help/matlab/ref/median.html
 
@@ -8,7 +8,7 @@ Convert to Binary,etc -->
 
 ____________________________________
 
-Χωρίς build-in functions του Matlab:
+without build-in functions of Matlab:
 ____________________________________
 
 Sobel Edge Detection Algorithm --> https://angeljohnsy.blogspot.com/2011/12/sobel-edge-detection.html
@@ -16,8 +16,5 @@ Canny Edge Detection Algorithm --> https://www.mathworks.com/matlabcentral/filee
 
 
 Write/Read From Binary File:
-	-Ενώ ο κώδικας είναι σωστός για κάποιο λόγο μας πετάει
-	"Permission Denied"
-	-Το τρέξαμε το Matlab "As admin" και δεν έβγαλε error,
-	αλλά παρόλα αυτά δεν έφτιαξε κ κάποιο αρχείο.
-	Το έχουμε αφήσει ως σχόλια το κώδικα κάτω κάτω!
+	Code seems right but i get "Permission Denied"
+	i left it as a comment at the bottom
